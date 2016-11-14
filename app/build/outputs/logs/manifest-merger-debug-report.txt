@@ -1,0 +1,59 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Zyang/AndroidStudioProjects/HbxLink1(1)/HbxLink1/app/src/main/AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from /Users/Zyang/AndroidStudioProjects/HbxLink1(1)/HbxLink1/app/src/main/AndroidManifest.xml:3:4-30
+		INJECTED from /Users/Zyang/AndroidStudioProjects/HbxLink1(1)/HbxLink1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Zyang/AndroidStudioProjects/HbxLink1(1)/HbxLink1/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/Zyang/AndroidStudioProjects/HbxLink1(1)/HbxLink1/app/src/main/AndroidManifest.xml:5:4-29
+		INJECTED from /Users/Zyang/AndroidStudioProjects/HbxLink1(1)/HbxLink1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Zyang/AndroidStudioProjects/HbxLink1(1)/HbxLink1/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/Zyang/AndroidStudioProjects/HbxLink1(1)/HbxLink1/app/src/main/AndroidManifest.xml:4:4-27
+		INJECTED from /Users/Zyang/AndroidStudioProjects/HbxLink1(1)/HbxLink1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Zyang/AndroidStudioProjects/HbxLink1(1)/HbxLink1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Zyang/AndroidStudioProjects/HbxLink1(1)/HbxLink1/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/Zyang/AndroidStudioProjects/HbxLink1(1)/HbxLink1/app/src/main/AndroidManifest.xml:6:2-17:16
+MERGED from [com.android.support:appcompat-v7:22.1.0] /Users/Zyang/AndroidStudioProjects/HbxLink1(1)/HbxLink1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.1.0] /Users/Zyang/AndroidStudioProjects/HbxLink1(1)/HbxLink1/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.0/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/Zyang/AndroidStudioProjects/HbxLink1(1)/HbxLink1/app/src/main/AndroidManifest.xml:6:45-77
+	android:icon
+		ADDED from /Users/Zyang/AndroidStudioProjects/HbxLink1(1)/HbxLink1/app/src/main/AndroidManifest.xml:6:15-44
+activity#org.crazyit.link.Welcome
+ADDED from /Users/Zyang/AndroidStudioProjects/HbxLink1(1)/HbxLink1/app/src/main/AndroidManifest.xml:7:3-13:14
+	android:label
+		ADDED from /Users/Zyang/AndroidStudioProjects/HbxLink1(1)/HbxLink1/app/src/main/AndroidManifest.xml:8:7-39
+	android:name
+		ADDED from /Users/Zyang/AndroidStudioProjects/HbxLink1(1)/HbxLink1/app/src/main/AndroidManifest.xml:7:13-36
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/Zyang/AndroidStudioProjects/HbxLink1(1)/HbxLink1/app/src/main/AndroidManifest.xml:9:4-12:20
+action#android.intent.action.MAIN
+ADDED from /Users/Zyang/AndroidStudioProjects/HbxLink1(1)/HbxLink1/app/src/main/AndroidManifest.xml:10:5-57
+	android:name
+		ADDED from /Users/Zyang/AndroidStudioProjects/HbxLink1(1)/HbxLink1/app/src/main/AndroidManifest.xml:10:13-54
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Zyang/AndroidStudioProjects/HbxLink1(1)/HbxLink1/app/src/main/AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from /Users/Zyang/AndroidStudioProjects/HbxLink1(1)/HbxLink1/app/src/main/AndroidManifest.xml:11:15-62
+activity#org.crazyit.link.Link
+ADDED from /Users/Zyang/AndroidStudioProjects/HbxLink1(1)/HbxLink1/app/src/main/AndroidManifest.xml:14:3-45
+	android:name
+		ADDED from /Users/Zyang/AndroidStudioProjects/HbxLink1(1)/HbxLink1/app/src/main/AndroidManifest.xml:14:13-33
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/Zyang/AndroidStudioProjects/HbxLink1(1)/HbxLink1/app/src/main/AndroidManifest.xml:19:2-62
+	android:name
+		ADDED from /Users/Zyang/AndroidStudioProjects/HbxLink1(1)/HbxLink1/app/src/main/AndroidManifest.xml:19:19-60
+uses-sdk
+INJECTED from /Users/Zyang/AndroidStudioProjects/HbxLink1(1)/HbxLink1/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:22.1.0] /Users/Zyang/AndroidStudioProjects/HbxLink1(1)/HbxLink1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.1.0] /Users/Zyang/AndroidStudioProjects/HbxLink1(1)/HbxLink1/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.0/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from /Users/Zyang/AndroidStudioProjects/HbxLink1(1)/HbxLink1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Zyang/AndroidStudioProjects/HbxLink1(1)/HbxLink1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Zyang/AndroidStudioProjects/HbxLink1(1)/HbxLink1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Zyang/AndroidStudioProjects/HbxLink1(1)/HbxLink1/app/src/main/AndroidManifest.xml

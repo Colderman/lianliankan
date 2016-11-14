@@ -1,0 +1,149 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* doc\
+* doc\allclasses-frame.html
+* doc\allclasses-noframe.html
+* doc\constant-values.html
+* doc\deprecated-list.html
+* doc\help-doc.html
+* doc\index-files\
+* doc\index-files\index-1.html
+* doc\index-files\index-10.html
+* doc\index-files\index-11.html
+* doc\index-files\index-12.html
+* doc\index-files\index-13.html
+* doc\index-files\index-14.html
+* doc\index-files\index-15.html
+* doc\index-files\index-16.html
+* doc\index-files\index-17.html
+* doc\index-files\index-18.html
+* doc\index-files\index-2.html
+* doc\index-files\index-3.html
+* doc\index-files\index-4.html
+* doc\index-files\index-5.html
+* doc\index-files\index-6.html
+* doc\index-files\index-7.html
+* doc\index-files\index-8.html
+* doc\index-files\index-9.html
+* doc\index.html
+* doc\org\
+* doc\org\crazyit\
+* doc\org\crazyit\link\
+* doc\org\crazyit\link\BuildConfig.html
+* doc\org\crazyit\link\Link.html
+* doc\org\crazyit\link\R.attr.html
+* doc\org\crazyit\link\R.drawable.html
+* doc\org\crazyit\link\R.html
+* doc\org\crazyit\link\R.id.html
+* doc\org\crazyit\link\R.layout.html
+* doc\org\crazyit\link\R.string.html
+* doc\org\crazyit\link\board\
+* doc\org\crazyit\link\board\AbstractBoard.html
+* doc\org\crazyit\link\board\GameService.html
+* doc\org\crazyit\link\board\class-use\
+* doc\org\crazyit\link\board\class-use\AbstractBoard.html
+* doc\org\crazyit\link\board\class-use\GameService.html
+* doc\org\crazyit\link\board\impl\
+* doc\org\crazyit\link\board\impl\FullBoard.html
+* doc\org\crazyit\link\board\impl\GameServiceImpl.html
+* doc\org\crazyit\link\board\impl\HorizontalBoard.html
+* doc\org\crazyit\link\board\impl\VerticalBoard.html
+* doc\org\crazyit\link\board\impl\class-use\
+* doc\org\crazyit\link\board\impl\class-use\FullBoard.html
+* doc\org\crazyit\link\board\impl\class-use\GameServiceImpl.html
+* doc\org\crazyit\link\board\impl\class-use\HorizontalBoard.html
+* doc\org\crazyit\link\board\impl\class-use\VerticalBoard.html
+* doc\org\crazyit\link\board\impl\package-frame.html
+* doc\org\crazyit\link\board\impl\package-summary.html
+* doc\org\crazyit\link\board\impl\package-tree.html
+* doc\org\crazyit\link\board\impl\package-use.html
+* doc\org\crazyit\link\board\package-frame.html
+* doc\org\crazyit\link\board\package-summary.html
+* doc\org\crazyit\link\board\package-tree.html
+* doc\org\crazyit\link\board\package-use.html
+* doc\org\crazyit\link\class-use\
+* doc\org\crazyit\link\class-use\BuildConfig.html
+* doc\org\crazyit\link\class-use\Link.html
+* doc\org\crazyit\link\class-use\R.attr.html
+* doc\org\crazyit\link\class-use\R.drawable.html
+* doc\org\crazyit\link\class-use\R.html
+* doc\org\crazyit\link\class-use\R.id.html
+* doc\org\crazyit\link\class-use\R.layout.html
+* doc\org\crazyit\link\class-use\R.string.html
+* doc\org\crazyit\link\object\
+* doc\org\crazyit\link\object\GameConf.html
+* doc\org\crazyit\link\object\LinkInfo.html
+* doc\org\crazyit\link\object\class-use\
+* doc\org\crazyit\link\object\class-use\GameConf.html
+* doc\org\crazyit\link\object\class-use\LinkInfo.html
+* doc\org\crazyit\link\object\package-frame.html
+* doc\org\crazyit\link\object\package-summary.html
+* doc\org\crazyit\link\object\package-tree.html
+* doc\org\crazyit\link\object\package-use.html
+* doc\org\crazyit\link\package-frame.html
+* doc\org\crazyit\link\package-summary.html
+* doc\org\crazyit\link\package-tree.html
+* doc\org\crazyit\link\package-use.html
+* doc\org\crazyit\link\util\
+* doc\org\crazyit\link\util\ImageUtil.html
+* doc\org\crazyit\link\util\class-use\
+* doc\org\crazyit\link\util\class-use\ImageUtil.html
+* doc\org\crazyit\link\util\package-frame.html
+* doc\org\crazyit\link\util\package-summary.html
+* doc\org\crazyit\link\util\package-tree.html
+* doc\org\crazyit\link\util\package-use.html
+* doc\org\crazyit\link\view\
+* doc\org\crazyit\link\view\GameView.html
+* doc\org\crazyit\link\view\Piece.html
+* doc\org\crazyit\link\view\PieceImage.html
+* doc\org\crazyit\link\view\class-use\
+* doc\org\crazyit\link\view\class-use\GameView.html
+* doc\org\crazyit\link\view\class-use\Piece.html
+* doc\org\crazyit\link\view\class-use\PieceImage.html
+* doc\org\crazyit\link\view\package-frame.html
+* doc\org\crazyit\link\view\package-summary.html
+* doc\org\crazyit\link\view\package-tree.html
+* doc\org\crazyit\link\view\package-use.html
+* doc\overview-frame.html
+* doc\overview-summary.html
+* doc\overview-tree.html
+* doc\package-list
+* doc\resources\
+* doc\resources\inherit.gif
+* doc\stylesheet.css
+* proguard.cfg
+* uml\
+* uml\link.umr
+* uml\link.umr~
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="24"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="348495266273375"
+    token="-3938454651161127236"
+    verifier="MANIFEST_FILE_CHANGE" >
+
+    <task
+        name="javac"
+        duration="98" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="21" />
+    <task
+        name="verifier"
+        duration="1" />
+
+    <artifact
+        location="/Users/Zyang/AndroidStudioProjects/HbxLink1(1)/HbxLink1/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="348495266273375"
+        verifier="MANIFEST_FILE_CHANGE" >
+        <artifact
+            location="/Users/Zyang/AndroidStudioProjects/HbxLink1(1)/HbxLink1/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

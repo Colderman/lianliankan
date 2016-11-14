@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Zyang/AndroidStudioProjects/HbxLink1(1)/HbxLink1/app/build/intermediates/res/merged/debug/raw/lose.ogg",
+        "source": "/Users/Zyang/AndroidStudioProjects/HbxLink1(1)/HbxLink1/app/src/main/res/raw/lose.ogg"
+    },
+    {
+        "merged": "/Users/Zyang/AndroidStudioProjects/HbxLink1(1)/HbxLink1/app/build/intermediates/res/merged/debug/raw/ready.wav",
+        "source": "/Users/Zyang/AndroidStudioProjects/HbxLink1(1)/HbxLink1/app/src/main/res/raw/ready.wav"
+    },
+    {
+        "merged": "/Users/Zyang/AndroidStudioProjects/HbxLink1(1)/HbxLink1/app/build/intermediates/res/merged/debug/raw/bg.mp3",
+        "source": "/Users/Zyang/AndroidStudioProjects/HbxLink1(1)/HbxLink1/app/src/main/res/raw/bg.mp3"
+    },
+    {
+        "merged": "/Users/Zyang/AndroidStudioProjects/HbxLink1(1)/HbxLink1/app/build/intermediates/res/merged/debug/raw/win.ogg",
+        "source": "/Users/Zyang/AndroidStudioProjects/HbxLink1(1)/HbxLink1/app/src/main/res/raw/win.ogg"
+    }
+]

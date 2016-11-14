@@ -1,0 +1,7 @@
+#Mon Nov 14 14:54:25 CST 2016
+base.0=/Users/Zyang/AndroidStudioProjects/HbxLink1(1)/HbxLink1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4e0a4a0687ef7c4e55b7c6bb168298a245812de5
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/Zyang/AndroidStudioProjects/HbxLink1(1)/HbxLink1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4c72bc3a1eb1dd9d056bef3cadc4367156f3a2b1/classes.dex
+base.1=/Users/Zyang/AndroidStudioProjects/HbxLink1(1)/HbxLink1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4c72bc3a1eb1dd9d056bef3cadc4367156f3a2b1
+file.0=/Users/Zyang/AndroidStudioProjects/HbxLink1(1)/HbxLink1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4e0a4a0687ef7c4e55b7c6bb168298a245812de5/classes.dex
